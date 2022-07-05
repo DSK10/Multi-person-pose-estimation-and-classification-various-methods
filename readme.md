@@ -24,3 +24,5 @@ is due to mis-match of pose instances that can be resolved using an appropriate 
     - Classification is done using Neural Network
     - Trained on only 20-25 data
     - Working fine but results might not be perfect
+    
+    ![MP_output](https://user-images.githubusercontent.com/38138168/177247679-34b3e22e-7c10-4cf7-993a-45b1196b2403.png)
